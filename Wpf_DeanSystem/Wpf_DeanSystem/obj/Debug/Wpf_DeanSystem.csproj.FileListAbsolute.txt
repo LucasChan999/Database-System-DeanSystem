@@ -1,0 +1,28 @@
+c:\users\lucas\documents\visual studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\bin\Debug\Wpf_DeanSystem.exe.config
+c:\users\lucas\documents\visual studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\MainWindow.g.cs
+c:\users\lucas\documents\visual studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\App.g.cs
+c:\users\lucas\documents\visual studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\Wpf_DeanSystem_MarkupCompile.cache
+c:\users\lucas\documents\visual studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\Wpf_DeanSystem_MarkupCompile.lref
+c:\users\lucas\documents\visual studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\MainWindow.baml
+c:\users\lucas\documents\visual studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\Wpf_DeanSystem.g.resources
+c:\users\lucas\documents\visual studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\Wpf_DeanSystem.Properties.Resources.resources
+c:\users\lucas\documents\visual studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\Wpf_DeanSystem.csproj.GenerateResource.Cache
+c:\users\lucas\documents\visual studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\Wpf_DeanSystem.pdb
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\bin\Debug\Wpf_DeanSystem.exe
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\bin\Debug\Wpf_DeanSystem.pdb
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\Wpf_DeanSystem.exe
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\ModelAdmin.g.cs
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\ModelStudent.g.cs
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\ModelTea.g.cs
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\ModelAdmin.baml
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\ModelStudent.baml
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\ModelTea.baml
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\Model_FixPw.g.cs
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\Model_FixPw.baml
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\bin\Debug\Wpf_DeanSystem.exe.manifest
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\bin\Debug\Wpf_DeanSystem.application
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\Wpf_DeanSystem.exe.manifest
+C:\Users\Lucas\Documents\Visual Studio 2015\Projects\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\Wpf_DeanSystem.application
+G:\Programme&ResourceBT\VSwork\Wpf_DeanSystem\Wpf_DeanSystem\bin\Debug\Wpf_DeanSystem.exe.config
+G:\Programme&ResourceBT\VSwork\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\Wpf_DeanSystem.exe
+G:\Programme&ResourceBT\VSwork\Wpf_DeanSystem\Wpf_DeanSystem\obj\Debug\Wpf_DeanSystem.pdb

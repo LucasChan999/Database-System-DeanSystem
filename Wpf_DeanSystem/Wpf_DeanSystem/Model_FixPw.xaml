@@ -1,0 +1,19 @@
+﻿<Window x:Name="window_FixPW" x:Class="Wpf_DeanSystem.Model__FixPw"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Wpf_DeanSystem"
+        mc:Ignorable="d"
+        Title="Model__FixPw" Height="217.195" Width="407.24">
+    <Window.Effect>
+        <DropShadowEffect/>
+    </Window.Effect>
+    <Grid x:Name="FixPassWord">
+        <Button x:Name="button_Confirm" Content="Confirm" HorizontalAlignment="Left" Margin="153,143,0,0" VerticalAlignment="Top" Width="126" Height="33" FontSize="18" FontWeight="Bold" Click="button_Confirm_Click"/>
+        <Label x:Name="label_newpw" Content="EnterNewPw" HorizontalAlignment="Left" Margin="10,30,0,0" VerticalAlignment="Top" Width="119" FontSize="16" FontWeight="Bold"/>
+        <Label x:Name="label_ReWrite" Content="EnterAgain" HorizontalAlignment="Left" Margin="10,83,0,0" VerticalAlignment="Top" Width="119" Height="34" FontSize="18" FontWeight="Bold"/>
+        <TextBox x:Name="textBox_pw2" HorizontalAlignment="Left" Height="23" Margin="153,94,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" TextChanged="textBox_pw2_TextChanged"/>
+        <TextBox x:Name="textBox_pw1" HorizontalAlignment="Left" Height="23" Margin="153,38,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="158" TextChanged="textBox_pw1_TextChanged"/>
+    </Grid>
+</Window>
